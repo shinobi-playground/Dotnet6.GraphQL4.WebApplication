@@ -768,7 +768,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 > See the list of [contributors](https://github.com/AntonioFalcao/Dotnet6.GraphQL4.WebApplication/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
